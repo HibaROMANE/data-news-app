@@ -36,6 +36,11 @@ To run the Data News App locally, follow these steps:
    git clone https://github.com/your-username/data-news-app.git
    ```
    
+3. positioning in the website directory :
+   ```bash
+   cd website
+   ```
+   
 3. Run the development server:
    ```bash
    python manage.py runserver
