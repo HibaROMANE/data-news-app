@@ -35,12 +35,7 @@ To run the Data News App locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/data-news-app.git
    ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
+   
 3. Run the development server:
    ```bash
    python manage.py runserver
